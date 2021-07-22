@@ -1,0 +1,7 @@
+name: Minceraft
+version: ${project.version}
+main: me.waiaf.minceraft.Main
+api-version: 1.17
+authors: [ WaIaF ]
+description: Ebic Gamer Moment
+website: https://github.com/WaIaF
